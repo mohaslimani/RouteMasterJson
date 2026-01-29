@@ -1,3 +1,3 @@
 {
-  "hello": "public class Hello { public sayHello() { System.out.println(\"Hello, world!\");} }"
+  "hello": "public class Hello { public void sayHello() { System.out.println(\"Hello, world!\");} }"
 }
